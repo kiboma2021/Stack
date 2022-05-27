@@ -3,6 +3,13 @@ A stack is a linear data structure in which all the insertion and deletion of da
 
 Stack uses Last in First out method (LIFO)
 
+![stack](https://user-images.githubusercontent.com/93031593/170769051-f780411c-4da9-4f55-8e00-e07293370255.jpeg)
+
+![stack2](https://user-images.githubusercontent.com/93031593/170769357-c803a1e0-e11f-4670-86e5-2ab9b2e8e1f6.png)
+
+![stack3](https://user-images.githubusercontent.com/93031593/170769533-d75bed18-2b0b-4ff2-a38b-64436cc78fa5.png)
+
+
 ## Built With
 
 - Javascript
