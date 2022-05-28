@@ -10,7 +10,7 @@ Stack uses Last in First out method (LIFO)
 ![stack3](https://user-images.githubusercontent.com/93031593/170769533-d75bed18-2b0b-4ff2-a38b-64436cc78fa5.png)
 
 
-![stack4](https://www.youtube.com/watch?v=yne_Wsa1DCM)
+https://www.youtube.com/watch?v=yne_Wsa1DCM
 
 
 ## Built With
